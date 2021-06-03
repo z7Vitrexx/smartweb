@@ -3,9 +3,9 @@ body{
     font-family: 'Roboto';
 }
 #header{
-    border: 1px solid whitesmoke;
     padding: 0px 0px 300px 0px;;
-    background-color: whitesmoke;
+    background: rgb(203,200,200);
+    background: linear-gradient(90deg, rgba(203,200,200,0.12650997899159666) 0%, rgba(9,9,121,0.2973783263305322) 57%, rgba(64,64,65,0.42622986694677867) 100%);
     
 }
 #navbar{
