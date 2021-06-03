@@ -2,3 +2,24 @@ body{
     background-color: #303030;
     font-family: 'Roboto';
 }
+#header{
+    border: 1px solid whitesmoke;
+    padding: 0px 0px 300px 0px;;
+    background-color: whitesmoke;
+    
+}
+#navbar{
+    border: 1px solid whitesmoke;
+    box-sizing: content-box;
+    content: whitesmoke;
+    border-radius: 5px 5px 5px 5px;
+    margin: 0px 0px 0px 970px;
+    padding: 10px  0px 10px 0px;
+    font-family: 'Roboto';
+    font-size: larger;
+   
+   
+  
+
+
+}
